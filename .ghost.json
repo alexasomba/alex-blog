@@ -4,7 +4,7 @@
     "contentApiKey": "9cc5c67c358edfdd81455149d0"
   },
   "production": {
-    "apiUrl": "https://gatsby.ghost.io",
-    "contentApiKey": "9cc5c67c358edfdd81455149d0"
+    "apiUrl": "https://alexasomba.herokuapp.com",
+    "contentApiKey": "4c358e69a886e06c5a5e3750c3"
   }
 }
